@@ -36,11 +36,13 @@ for(i=9; i<18; i++){
         }
     }
     
-
+//displays current date at the top of the page
   var today = $('#currentDay')
   function displayTime() {
     var day = dayjs().format('dddd MMM D[,] YYYY');
     today.text(day);
   }
   displayTime();
+  //reloads page every 60s to display current time block colors
+  setInterval('window.location.reload()', 60000)
   
