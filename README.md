@@ -1,5 +1,8 @@
 # Work-Day-Scheduler
 
+<img width="658" alt="Screen Shot 2023-01-08 at 3 35 50 PM" src="https://user-images.githubusercontent.com/116858582/211224613-6d950a59-28c2-4ab3-b04d-d2ce64d3e2ad.png">
+
+
 ## Description
 
 This is a webpage designed to be a work day scheduler, created using HTML, CSS, and JavaScript
